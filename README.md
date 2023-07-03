@@ -1,3 +1,3 @@
 # 🛫 TensorFlow
 
-### TensorFlow Tutorial(공식문서) 실습
+### TensorFlow 공식문서 실습
